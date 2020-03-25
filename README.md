@@ -19,12 +19,6 @@
   0 4 1
 ```
 
-> Running
-
-```
-  perl matrix.pl input.txt |m for multiplaction| d for determinant |
-```
-
 > Result 
 
 ```
@@ -40,9 +34,15 @@
   -550
 ```
 
-# Installation
+### Installation
 
 ```
   git clone https://github.com/MingaudasVagonis/perl-matrix.git
   cd perl-matrix
+```
+
+### Running
+
+```
+  perl matrix.pl input.txt [m for multiplaction | d for determinant]
 ```
